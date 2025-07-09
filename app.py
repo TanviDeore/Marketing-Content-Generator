@@ -117,7 +117,7 @@ with st.form("product_input_form"):
     submitted = st.form_submit_button("Generate Content")
     
 
-# 
+
 if submitted:
     # Preparing product_data dictionary from Streamlit inputs
     product_data = {
