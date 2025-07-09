@@ -129,3 +129,11 @@ To run this application on Google Colab, you need to use `pyngrok` to create a p
     print(f"Your Streamlit app is live at: {public_url}")
     ```
 4.  **Access the App:** After running all cells, click the `public_url` printed in the output of Cell 5. This will open your Streamlit app in a new tab.
+
+5.  Example
+   
+![example-1](https://github.com/user-attachments/assets/4fe187e2-b277-4203-ab30-96b6c1c09a63)
+![image](https://github.com/user-attachments/assets/ab0bbcad-db80-461f-a0fc-a2d45647486a)
+![image](https://github.com/user-attachments/assets/173b154b-0590-4304-962c-87870f5e20fa)
+
+
