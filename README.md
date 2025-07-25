@@ -36,8 +36,8 @@ This application requires Python and relies on Ollama for its language model cap
 
 1.  **Clone the Repository:**
     ```bash
-    git clone <your-repository-url>
-    cd marketing-content-generator # Or your project directory name
+    git clone https://github.com/TanviDeore/Marketing-Content-Generator.git
+    cd marketing-content-generator 
     ```
     If you're just using the provided Python file, save the code as `app.py` (or any `.py` file name you prefer).
 
